@@ -1,0 +1,2 @@
+Programming is fun.
+And programming in C is even more fun.
